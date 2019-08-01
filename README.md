@@ -25,6 +25,11 @@ If java is not installed yet, install it
 [link](https://tecadmin.net/install-postgresql-server-on-ubuntu/)
 
 ### Install Java
+Make sure you already have Java installed by using this command in terminal
+```
+java -version
+```
+If java is not installed yet, install it
 [link](https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/)
 
 ### Install Postman
@@ -58,6 +63,11 @@ psql -U postgres -c 'SELECT version();'
 
 ### Java
 #### Install Java
+Make sure you already have Java installed by using this command in terminal
+```
+java -version
+```
+If java is not installed yet, install it
 ```
 brew cask install java
 ```
